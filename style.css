@@ -1,0 +1,23 @@
+.header {
+    width: 100%;
+    height: 30rem;
+    padding: 10px;
+    background: color:#fff; 
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600px;
+
+    align-items: center;
+
+
+}
+
+.header h1  {
+    text-transform: uppercase;
+}
+
+div img {
+    width: 100px;
+    border-radius: 20px;
+}
